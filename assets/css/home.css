@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#contact-container{
+    /* display: flex; */
+    
+    height: 30%;
+    width: 30%;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 35%;
+}
+.contacts{
+    display: flex;
+    background-color: blue;
+    width: 92%;
+    margin: 1px;
+    margin-bottom: 20px;
+    color: wheat;
+  
+}
+
+#contact-form{
+    margin: 36px;
+}
